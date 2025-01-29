@@ -22,11 +22,9 @@
   </div>
  
   ![Snake animation](https://github.com/guilherme-ferreira1/guilherme-ferreira1/blob/output/github-contribution-grid-snake.svg)
-
-  ![snake gif](https://github.com/guilherme-ferreira1/guilherme-ferreira1/blob/output/github-contribution-grid-snake.gif)
  
-</div>
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-ferreira1&repo=guilherme-ferreira1&theme=react)](https://github.com/guilherme-ferreira1/guilherme-ferreira1)
+</div>
  
 
 
