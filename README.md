@@ -23,6 +23,6 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GK-Ferreira&repo=GK-Ferreira&theme=react)](https://github.com/guilherme-ferreira1/guilherme-ferreira1)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-ferreira1&repo=guilherme-ferreira1&theme=react)](https://github.com/guilherme-ferreira1/guilherme-ferreira1)
 
 
