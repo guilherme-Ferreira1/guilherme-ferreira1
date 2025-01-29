@@ -12,8 +12,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="react.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-   <img align="center" alt="totvs" height="30" width="40" src="https://icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png" /> 
-    
 </div>
   <br>
   <div>
@@ -23,8 +21,8 @@
  
   ![Snake animation](https://github.com/guilherme-ferreira1/guilherme-ferreira1/blob/output/github-contribution-grid-snake.svg)
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-ferreira1&repo=guilherme-ferreira1&theme=react)](https://github.com/guilherme-ferreira1/guilherme-ferreira1)
 </div>
  
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-ferreira1&repo=guilherme-ferreira1&theme=react)](https://github.com/guilherme-ferreira1/guilherme-ferreira1)
 
 
